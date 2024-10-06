@@ -18,7 +18,7 @@ I am looking for remote collaborators, please feel free to drop me an email if y
 Email: shuang.zhou at connect.polyu.hk
 
 
-# Publication
+# Publications
 
 - **Shuang Zhou**, Zidu Xu, Mian Zhang, Chunpu Xu, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang, "Large Language Models for Disease Diagnosis: A Scoping Review", *arXiv*, 2024.
   
