@@ -21,7 +21,7 @@ repository               : "betterzhou/betterzhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./shuangzhou_CIKM.png"
+  avatar           : "shuangzhou_CIKM.png"
   name             : "Shuang Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow at UMN"
