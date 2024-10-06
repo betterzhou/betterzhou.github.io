@@ -24,7 +24,7 @@ Email: shuang.zhou at connect.polyu.hk
   
 - **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, Rui Zhang, "Interpretable Differential Diagnosis with Dual-Inference Large Language Models", *arXiv*, 2024.
   
-- **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung, "Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning", *Neural Networks*, 2024.
+- **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung, "Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning", *Neural Networks*, 2024. [Code](https://github.com/betterzhou/Open_World_ECG_Classification)
   
 - Huachi Zhou, **Shuang Zhou**, Hao Chen, Xiao Huang, Fan Yang, Ninghao Liu, "Enhancing Explainable Rating Prediction through Concept Annotation with LLMs", *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
   
