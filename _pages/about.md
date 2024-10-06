@@ -20,8 +20,8 @@ Email: shuang.zhou at connect.polyu.hk
 
 
 Services
-------------------------------
-# Journal Reviewer
+
+### Journal Reviewer
 
 npj Digital Medicine
 
@@ -38,7 +38,7 @@ Neural Networks
 Pattern Recognition
 
 
-# Conference Reviewer
+### Conference Reviewer
 
 AAAI 2023, 2024
 
