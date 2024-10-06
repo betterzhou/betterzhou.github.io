@@ -24,19 +24,13 @@ Email: shuang.zhou at connect.polyu.hk
 
 ### Journal Reviewer
 
-npj Digital Medicine
-
-Computers in Biology and Medicine 
-
-IEEE Transactions on Neural Networks and Learning Systems
-
-IEEE Transactions on Neural Systems and Rehabilitation Engineering
-
-ACM Transactions on Knowledge Discovery from Data
-
-Neural Networks
-
-Pattern Recognition
+- npj Digital Medicine
+- Computers in Biology and Medicine
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering
+- ACM Transactions on Knowledge Discovery from Data
+- Neural Networks
+- Pattern Recognition
 
 
 ### Conference Reviewer
