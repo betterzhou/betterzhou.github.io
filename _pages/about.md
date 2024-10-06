@@ -35,8 +35,7 @@ Email: shuang.zhou at connect.polyu.hk
 
 ### Conference Reviewer
 
-AAAI 2023, 2024
-
-AMIA Informatics Summit
+- AAAI 2023, 2024
+- AMIA Informatics Summit
 
 
