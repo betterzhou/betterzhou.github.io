@@ -20,7 +20,7 @@ Email: shuang.zhou at connect.polyu.hk
 
 # Publications (# indicates equal contributions)
 
-- **Shuang Zhou**^#, Zidu Xu^#, Mian Zhang^#, Chunpu Xu^#, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang, "Large Language Models for Disease Diagnosis: A Scoping Review", *arXiv*, 2024.
+- **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang, "Large Language Models for Disease Diagnosis: A Scoping Review", *arXiv*, 2024.
   
 - **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, Rui Zhang, "Interpretable Differential Diagnosis with Dual-Inference Large Language Models", *arXiv*, 2024.
   
