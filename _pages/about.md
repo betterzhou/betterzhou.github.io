@@ -21,61 +21,70 @@ Email: shuang.zhou at connect.polyu.hk
 # Publications 
 (# indicates equal contributions)
 
-- **Large Language Models for Disease Diagnosis: A Scoping Review**  
-  Shuang Zhou<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
-  _arXiv_, 2024
+- Large Language Models for Disease Diagnosis: A Scoping Review  
+  **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
+  *arXiv*, 2024
 
-- **Interpretable Differential Diagnosis with Dual-Inference Large Language Models**  
-  Shuang Zhou, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, Rui Zhang  
-  _arXiv_, 2024
+- Interpretable Differential Diagnosis with Dual-Inference Large Language Models  
+  **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, Rui Zhang  
+  *arXiv*, 2024
 
-- **Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning**  
-  Shuang Zhou, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
-  _Neural Networks_, 2024. [Code & dataset](https://github.com/betterzhou/Open_World_ECG_Classification)
+- Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
+  **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
+  *Neural Networks*, 2024  
+  [Code & dataset](https://github.com/betterzhou/Open_World_ECG_Classification)
 
-- **Enhancing Explainable Rating Prediction through Concept Annotation with LLMs**  
-  Huachi Zhou, Shuang Zhou, Hao Chen, Xiao Huang, Fan Yang, Ninghao Liu  
-  _Annual Meeting of the Association for Computational Linguistics (ACL)_, 2024
+- Enhancing Explainable Rating Prediction through Concept Annotation with LLMs  
+  Huachi Zhou, **Shuang Zhou**, Hao Chen, Xiao Huang, Fan Yang, Ninghao Liu  
+  *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024
 
-- **Denosing-Aware Contrastive Learning for Noisy Time Series**  
-  Shuang Zhou, Daochen Zha, Xiao Shen, Xiao Huang, Rui Zhang, Fu-Lai Chung  
-  _International Joint Conference on Artificial Intelligence (IJCAI)_, 2024. [Code](https://github.com/betterzhou/DECL)
+- Denoising-Aware Contrastive Learning for Noisy Time Series  
+  **Shuang Zhou**, Daochen Zha, Xiao Shen, Xiao Huang, Rui Zhang, Fu-Lai Chung  
+  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024  
+  [Code](https://github.com/betterzhou/DECL)
 
-- **Interest Driven Graph Structure Learning for Session-Based Recommendation**  
-  Huachi Zhou, Shuang Zhou, Keyu Duan, Xiao Huang, Qiaoyu Tan, Zailiang Yu  
-  _Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)_, 2023. [Code](https://github.com/huachzhou/PIGR)
+- Interest Driven Graph Structure Learning for Session-Based Recommendation  
+  Huachi Zhou, **Shuang Zhou**, Keyu Duan, Xiao Huang, Qiaoyu Tan, Zailiang Yu  
+  *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)*, 2023  
+  [Code](https://github.com/huachzhou/PIGR)
 
-- **Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation**  
-  Shuang Zhou, Xiao Huang, Ninghao Liu, Huachi Zhou, Fu-Lai Chung, Long-Kai Huang  
-  _IEEE Transactions on Knowledge and Data Engineering_, 2023. [Code & dataset](https://github.com/betterzhou/AugAN)
+- Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation  
+  **Shuang Zhou**, Xiao Huang, Ninghao Liu, Huachi Zhou, Fu-Lai Chung, Long-Kai Huang  
+  *IEEE Transactions on Knowledge and Data Engineering*, 2023  
+  [Code & dataset](https://github.com/betterzhou/AugAN)
 
-- **Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning**  
-  Shuang Zhou, Xiao Huang, Ninghao Liu, Qiaoyu Tan, Fu-Lai Chung  
-  _SIAM International Conference on Data Mining (SDM)_, 2022. [Code & dataset](https://github.com/betterzhou/MHGL)
+- Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning  
+  **Shuang Zhou**, Xiao Huang, Ninghao Liu, Qiaoyu Tan, Fu-Lai Chung  
+  *SIAM International Conference on Data Mining (SDM)*, 2022  
+  [Code & dataset](https://github.com/betterzhou/MHGL)
 
-- **Subtractive Aggregation for Attributed Network Anomaly Detection**  
-  Shuang Zhou, Qiaoyu Tan, Zhiming Xu, Xiao Huang, Fu-Lai Chung  
-  _International Conference on Information and Knowledge Management (CIKM)_, 2021. [Code](https://github.com/betterzhou/AAGNN)
+- Subtractive Aggregation for Attributed Network Anomaly Detection  
+  **Shuang Zhou**, Qiaoyu Tan, Zhiming Xu, Xiao Huang, Fu-Lai Chung  
+  *International Conference on Information and Knowledge Management (CIKM)*, 2021  
+  [Code](https://github.com/betterzhou/AAGNN)
 
-- **PHICON: Improving Generalization of Clinical Text De-identification Models via Data Augmentation**  
-  Xiang Yue, Shuang Zhou  
-  _EMNLP 2020 Clinical Natural Language Processing Workshop_. [Code](https://github.com/betterzhou/PHICON)
+- PHICON: Improving Generalization of Clinical Text De-identification Models via Data Augmentation  
+  Xiang Yue, **Shuang Zhou**  
+  *EMNLP 2020 Clinical Natural Language Processing Workshop*  
+  [Code](https://github.com/betterzhou/PHICON)
 
-- **Graph embedding ensemble methods based on the heterogeneous network for lncRNA-miRNA interaction prediction**  
-  Chengshuai Zhao, Yang Qiu, Shuang Zhou, Shichao Liu, Wen Zhang, Yanqing Niu  
-  _BMC Genomics_, 2020
+- Graph Embedding Ensemble Methods Based on the Heterogeneous Network for lncRNA-miRNA Interaction Prediction  
+  Chengshuai Zhao, Yang Qiu, **Shuang Zhou**, Shichao Liu, Wen Zhang, Yanqing Niu  
+  *BMC Genomics*, 2020
 
-- **LncRNA-miRNA interaction prediction from the heterogeneous network through graph embedding ensemble learning**  
-  Shuang Zhou, Xiang Yue, Xinran Xu, Shichao Liu, Wen Zhang, Yanqing Niu  
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2019. [Code & dataset](https://github.com/betterzhou/GEEL)
+- LncRNA-miRNA Interaction Prediction from the Heterogeneous Network through Graph Embedding Ensemble Learning  
+  **Shuang Zhou**, Xiang Yue, Xinran Xu, Shichao Liu, Wen Zhang, Yanqing Niu  
+  *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2019  
+  [Code & dataset](https://github.com/betterzhou/GEEL)
 
-- **LncRNA-miRNA interaction prediction through sequence-derived linear neighborhood propagation method with information combination**  
-  Wen Zhang, Guifeng Tang, Shuang Zhou, Yanqing Niu  
-  _BMC Genomics_, 2019. [Code & dataset](https://github.com/betterzhou/SLNPM)
+- LncRNA-miRNA Interaction Prediction through Sequence-Derived Linear Neighborhood Propagation Method with Information Combination  
+  Wen Zhang, Guifeng Tang, **Shuang Zhou**, Yanqing Niu  
+  *BMC Genomics*, 2019  
+  [Code & dataset](https://github.com/betterzhou/SLNPM)
 
-- **Sequence-derived linear neighborhood propagation method for predicting lncRNA-miRNA interactions**  
-  Wen Zhang, Guifeng Tang, Siman Wang, Yanlin Chen, Shuang Zhou, Xiaohong Li  
-  _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2018
+- Sequence-Derived Linear Neighborhood Propagation Method for Predicting lncRNA-miRNA Interactions  
+  Wen Zhang, Guifeng Tang, Siman Wang, Yanlin Chen, **Shuang Zhou**, Xiaohong Li  
+  *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2018
 
 
 
