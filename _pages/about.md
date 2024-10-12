@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Department of Surgery, University of Minnesota Twin Cities. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024. Prior to that, I obtained my Master's degree in Computer Science from The Chinese University of Hong Kong in 2020 and received my Bachelor's degree from Wuhan University in 2018.
+I am a researcher at the Department of Surgery, University of Minnesota Twin Cities. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024 supervised by [Dr. Korris Chung](https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris/) and [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). Before that, I obtained my Master's degree in Computer Science from The Chinese University of Hong Kong (CUHK) in 2020 and received my Bachelor's degree from Wuhan University (WHU) in 2018.
 
 
 My research interests include Medical Informatics, Large Language Models, Deep Learning, Anomaly Detection, and Graph Neural Networks.
