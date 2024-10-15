@@ -26,7 +26,7 @@ Email: shuang.zhou at connect.polyu.hk
   *arXiv*, 2024
 
 - Interpretable Differential Diagnosis with Dual-Inference Large Language Models  
-  **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, Rui Zhang  
+  **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, James Zou, Rui Zhang  
   *arXiv*, 2024
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
