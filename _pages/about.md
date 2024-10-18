@@ -31,13 +31,13 @@ Email: shuang.zhou at connect.polyu.hk
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
-  *Neural Networks*, 2024 
+  *Neural Networks*, 2024
   [Code & dataset](https://github.com/betterzhou/Open_World_ECG_Classification)
 
 - Enhancing Explainable Rating Prediction through Concept Annotation with LLMs  
   Huachi Zhou, **Shuang Zhou**, Hao Chen, Xiao Huang, Fan Yang, Ninghao Liu  
   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024
-  (Acceptance rate: 21.3%, main track) 
+  (Acceptance rate: 21.3%, main track)
 
 - Denoising-Aware Contrastive Learning for Noisy Time Series  
   **Shuang Zhou**, Daochen Zha, Xiao Shen, Xiao Huang, Rui Zhang, Fu-Lai Chung  
