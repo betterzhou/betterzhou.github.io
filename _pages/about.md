@@ -31,18 +31,18 @@ Email: shuang.zhou at connect.polyu.hk
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
-  *Neural Networks*, 2024
+  *Neural Networks*, 2024  
   [Code & dataset](https://github.com/betterzhou/Open_World_ECG_Classification)
 
 - Enhancing Explainable Rating Prediction through Concept Annotation with LLMs  
   Huachi Zhou, **Shuang Zhou**, Hao Chen, Xiao Huang, Fan Yang, Ninghao Liu  
-  *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024
+  *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024  
   (Acceptance rate: 21.3%, main track)
 
 - Denoising-Aware Contrastive Learning for Noisy Time Series  
   **Shuang Zhou**, Daochen Zha, Xiao Shen, Xiao Huang, Rui Zhang, Fu-Lai Chung  
-  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024
-  (Acceptance rate: 791/5651 = 14.0%, main track)
+  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024  
+  (Acceptance rate: 791/5651 = 14.0%, main track)  
   [Code](https://github.com/betterzhou/DECL)
 
 - Interest Driven Graph Structure Learning for Session-Based Recommendation  
@@ -52,8 +52,7 @@ Email: shuang.zhou at connect.polyu.hk
 
 - Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Huachi Zhou, Fu-Lai Chung, Long-Kai Huang  
-  *IEEE Transactions on Knowledge and Data Engineering*, 2023
-  (Impact factor: 8.9) 
+  *IEEE Transactions on Knowledge and Data Engineering*, 2023 (Impact factor: 8.9)  
   [Code & dataset](https://github.com/betterzhou/AugAN)
 
 - Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning  
