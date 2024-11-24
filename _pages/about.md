@@ -89,6 +89,9 @@ Email: shuang.zhou at connect.polyu.hk
   *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2018
 
 
+# Talk
+
+- [10/2024] Invited by Prof. Ninghao Liu to give a guest lecture "An overview of open-set recognition" for CSCI 8265: Trustworthy Machine Learning at the University of Georgia.
 
 
 # Services
