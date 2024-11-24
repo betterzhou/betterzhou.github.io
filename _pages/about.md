@@ -102,6 +102,8 @@ Email: shuang.zhou at connect.polyu.hk
 - ACM Transactions on Knowledge Discovery from Data
 - Neural Networks
 - Pattern Recognition
+- International Journal of Medical Informatics
+- Sensor
 
 
 ### Conference Reviewer
