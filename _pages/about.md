@@ -18,7 +18,7 @@ I am looking for remote collaborators, please feel free to drop me an email if y
 Email: shuang.zhou at connect.polyu.hk
 
 
-# Publications 
+# Preprint 
 (# indicates equal contributions)
 
 - Large Language Models for Disease Diagnosis: A Scoping Review  
@@ -28,6 +28,14 @@ Email: shuang.zhou at connect.polyu.hk
 - Interpretable Differential Diagnosis with Dual-Inference Large Language Models  
   **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, James Zou, Rui Zhang  
   *arXiv*, 2024
+
+
+# Publications 
+
+- Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment
+  Xiao Shen, Zhihao Chen, Shirui Pan, **Shuang Zhou**, Laurence Tianruo Yang, Xi Zhou
+  *AAAI Conference on Artificial Intelligence (AAAI)*, 2025
+  (Acceptance rate: 3,032/12,957 = 23.4%, main track)  
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
