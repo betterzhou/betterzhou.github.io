@@ -30,12 +30,12 @@ Email: shuang.zhou at connect.polyu.hk
   *arXiv*, 2024
 
 
-# Publications 
+# Publication
 
-- Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment
-  Xiao Shen, Zhihao Chen, Shirui Pan, **Shuang Zhou**, Laurence Tianruo Yang, Xi Zhou
-  *AAAI Conference on Artificial Intelligence (AAAI)*, 2025
-  (Acceptance rate: 3,032/12,957 = 23.4%, main track)  
+- Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment  
+  Xiao Shen, Zhihao Chen, Shirui Pan, **Shuang Zhou**, Laurence Tianruo Yang, Xi Zhou  
+  *AAAI Conference on Artificial Intelligence (AAAI)*, 2025  
+  (Acceptance rate: 3,032/12,957 = 23.4%, main track)
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
