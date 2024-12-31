@@ -31,9 +31,9 @@ Email: shuang.zhou at connect.polyu.hk
 
 
 # Publication
-- RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements
-  Zaifu Zhan, **Shuang Zhou**, Mingchen Li, Rui Zhang
-  *Journal of the American Medical Informatics Association*, 2025
+- RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements  
+  Zaifu Zhan, **Shuang Zhou**, Mingchen Li, Rui Zhang  
+  *Journal of the American Medical Informatics Association (JAMIA)*, 2025
 
 - Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment  
   Xiao Shen, Zhihao Chen, Shirui Pan, **Shuang Zhou**, Laurence Tianruo Yang, Xi Zhou  
