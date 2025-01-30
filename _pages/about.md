@@ -21,6 +21,10 @@ Email: shuang.zhou at connect.polyu.hk
 # Preprint 
 (# indicates equal contributions)
 
+- Continually Evolved Multimodal Foundation Models for Cancer Prognosis  
+  Jie Peng<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Longwei Yang, Yiran Song, Mohan Zhang, Kaixiong Zhou, Feng Xie, Mingquan Lin, Rui Zhang, Tianlong Chen  
+  *arXiv*, 2025
+  
 - Large Language Models for Disease Diagnosis: A Scoping Review  
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
   *arXiv*, 2024
