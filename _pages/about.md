@@ -21,6 +21,10 @@ Email: shuang.zhou at connect.polyu.hk
 # Preprint 
 (# indicates equal contributions)
 
+- EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
+  Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
+  *arXiv*, 2025
+  
 - Continually Evolved Multimodal Foundation Models for Cancer Prognosis  
   Jie Peng<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Longwei Yang, Yiran Song, Mohan Zhang, Kaixiong Zhou, Feng Xie, Mingquan Lin, Rui Zhang, Tianlong Chen  
   *arXiv*, 2025
@@ -115,6 +119,7 @@ Email: shuang.zhou at connect.polyu.hk
 ### Journal Reviewer
 
 - npj Digital Medicine
+- Journal of the American Medical Informatics Association
 - Computers in Biology and Medicine
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
