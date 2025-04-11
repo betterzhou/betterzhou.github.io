@@ -13,7 +13,7 @@ I am a researcher at the Department of Surgery, University of Minnesota Twin Cit
 My research interests include Medical Informatics, Large Language Models, Deep Learning, Anomaly Detection, and Graph Neural Networks.
 
 
-I am looking for remote collaborators, please feel free to drop me an email if you are interested in working with me.
+I am looking for remote collaborators. Please feel free to drop me an email if you are interested in working with me.
 
 Email: shuang.zhou at connect.polyu.hk
 
@@ -133,6 +133,7 @@ Email: shuang.zhou at connect.polyu.hk
 ### Conference Reviewer
 
 - AAAI 2023, 2024
-- AMIA Informatics Summit
+- AMIA Annual Symposium 2025
+- AMIA Informatics Summit 2025
 
 
