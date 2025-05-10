@@ -44,6 +44,7 @@ Email: shuang.zhou AT connect.polyu.hk
 - Explainable Differential Diagnosis with Dual-Inference Large Language Models  
   **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Canyu Chen, Genevieve B. Melton, James Zou, Rui Zhang  
   *npj Health Systems*, 2025
+  [Code & dataset](https://github.com/betterzhou/Dual-Inf)
   
 - RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements  
   Zaifu Zhan, **Shuang Zhou**, Mingchen Li, Rui Zhang  
