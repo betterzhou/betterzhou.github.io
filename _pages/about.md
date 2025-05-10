@@ -15,11 +15,15 @@ My research interests include Medical Informatics, Large Language Models, Deep L
 
 I am looking for remote collaborators. Please feel free to drop me an email if you are interested in working with me.
 
-Email: shuang.zhou at connect.polyu.hk
+Email: shuang.zhou AT connect.polyu.hk
 
 
 # Preprint 
 (# indicates equal contributions)
+
+- Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
+  **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
+  *arXiv*, 2025
 
 - EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
   Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
@@ -33,12 +37,14 @@ Email: shuang.zhou at connect.polyu.hk
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
   *arXiv*, 2024
 
-- Interpretable Differential Diagnosis with Dual-Inference Large Language Models  
-  **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Genevieve B. Melton, James Zou, Rui Zhang  
-  *arXiv*, 2024
 
 
 # Publication
+
+- Explainable Differential Diagnosis with Dual-Inference Large Language Models  
+  **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Canyu Chen, Genevieve B. Melton, James Zou, Rui Zhang  
+  *npj Health Systems*, 2025
+  
 - RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements  
   Zaifu Zhan, **Shuang Zhou**, Mingchen Li, Rui Zhang  
   *Journal of the American Medical Informatics Association (JAMIA)*, 2025
