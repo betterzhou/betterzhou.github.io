@@ -37,7 +37,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 # Publication
 - Large Language Models for Disease Diagnosis: A Scoping Review  
-  **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
+  **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
   *npj Artificial Intelligence*, 2024   
   [Resources](https://github.com/betterzhou/Awesome-LLM-Disease-Diagnosis)
   
