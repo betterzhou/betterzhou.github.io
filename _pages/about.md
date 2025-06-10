@@ -10,7 +10,7 @@ redirect_from:
 I am a researcher at the Department of Surgery, University of Minnesota Twin Cities. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024 advised by [Dr. Korris Chung](https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris/) and [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). Before that, I obtained my Master's degree in Computer Science from The Chinese University of Hong Kong (CUHK) in 2020 and received my Bachelor's degree from Wuhan University (WHU) in 2018.
 
 
-My research interests include Medical Informatics, Large Language Models, Deep Learning, Anomaly Detection, and Graph Neural Networks.
+My research interests include Biomedical Informatics, Large Language Models, AI for Healthcare, Electronic Health Records, Deep Learning, and Graph Neural Networks. 
 
 
 I am looking for remote collaborators. Please feel free to drop me an email if you are interested in working with me.
@@ -32,15 +32,15 @@ Email: shuang.zhou AT connect.polyu.hk
 - Continually Evolved Multimodal Foundation Models for Cancer Prognosis  
   Jie Peng<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Longwei Yang, Yiran Song, Mohan Zhang, Kaixiong Zhou, Feng Xie, Mingquan Lin, Rui Zhang, Tianlong Chen  
   *arXiv*, 2025
-  
-- Large Language Models for Disease Diagnosis: A Scoping Review  
-  **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
-  *arXiv*, 2024
 
 
 
 # Publication
-
+- Large Language Models for Disease Diagnosis: A Scoping Review  
+  **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Yi Fang, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
+  *npj Artificial Intelligence*, 2024
+  [Resources](https://github.com/betterzhou/Awesome-LLM-Disease-Diagnosis)
+  
 - Explainable Differential Diagnosis with Dual-Inference Large Language Models  
   **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Canyu Chen, Genevieve B. Melton, James Zou, Rui Zhang  
   *npj Health Systems*, 2025  
