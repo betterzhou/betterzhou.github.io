@@ -128,6 +128,7 @@ Email: shuang.zhou AT connect.polyu.hk
 ### Journal Reviewer
 
 - npj Digital Medicine
+- Cell Reports Medicine
 - Journal of the American Medical Informatics Association
 - Computers in Biology and Medicine
 - International Journal of Medical Informatics
@@ -141,7 +142,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 ### Conference Reviewer
 
-- AAAI 2023, 2024
+- AAAI 2023-2025
 - AMIA Annual Symposium 2025
 - AMIA Informatics Summit 2025
 
