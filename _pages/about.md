@@ -26,7 +26,7 @@ Email: shuang.zhou AT connect.polyu.hk
   *arXiv*, 2025
 
 - Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
-  **Shuang Zhou**#, Wenya Xie#, Jiaxi Li#, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
+  **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
   *arXiv*, 2025
 
 - Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation  
@@ -55,8 +55,8 @@ Email: shuang.zhou AT connect.polyu.hk
   [Code & dataset](https://github.com/betterzhou/Dual-Inf)
 
 - Mitigating Ethical Issues for Large Language Models in Oncology: A Systematic Review  
-  **Shuang Zhou**#, Xingyi Liu#, Zidu Xu#, Zaifu Zhan, Meijia Song, Jun Wang, Shiao Liu, Hua Xu, Rui Zhang  
-  *JCO Clinical Cancer Informatics*, 2025    
+  **Shuang Zhou**<sup>#</sup>, Xingyi Liu<sup>#</sup>, Zidu Xu<sup>#</sup>, Zaifu Zhan, Meijia Song, Jun Wang, Shiao Liu, Hua Xu, Rui Zhang  
+  *JCO Clinical Cancer Informatics*, 2025  
   [Resources](https://ascopubs.org/doi/10.1200/CCI-25-00076)
 
 - RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements  
