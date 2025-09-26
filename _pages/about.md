@@ -56,7 +56,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 - Mitigating Ethical Issues for Large Language Models in Oncology: A Systematic Review  
   **Shuang Zhou**#, Xingyi Liu#, Zidu Xu#, Zaifu Zhan, Meijia Song, Jun Wang, Shiao Liu, Hua Xu, Rui Zhang  
-  *JCO Clinical Cancer Informatics*, 2025
+  *JCO Clinical Cancer Informatics*, 2025    
   [Resources](https://ascopubs.org/doi/10.1200/CCI-25-00076)
 
 - RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements  
