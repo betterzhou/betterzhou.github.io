@@ -25,6 +25,14 @@ Email: shuang.zhou AT connect.polyu.hk
   **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
   *arXiv*, 2025
 
+- Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
+  **Shuang Zhou**#, Wenya Xie#, Jiaxi Li#, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
+  *arXiv*, 2025
+
+- Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation  
+  Zaifu Zhan, **Shuang Zhou**, Min Zeng, Kai Yu, Meijia Song, Xiaoyi Chen, Jun Wang, Yu Hou, Rui Zhang  
+  *arXiv*, 2025
+
 - EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
   Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
   *arXiv*, 2025
@@ -45,6 +53,11 @@ Email: shuang.zhou AT connect.polyu.hk
   **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Canyu Chen, Genevieve B. Melton, James Zou, Rui Zhang  
   *npj Health Systems*, 2025  
   [Code & dataset](https://github.com/betterzhou/Dual-Inf)
+
+- Mitigating Ethical Issues for Large Language Models in Oncology: A Systematic Review  
+  **Shuang Zhou**#, Xingyi Liu#, Zidu Xu#, Zaifu Zhan, Meijia Song, Jun Wang, Shiao Liu, Hua Xu, Rui Zhang  
+  *JCO Clinical Cancer Informatics*, 2025
+  [Resources](https://ascopubs.org/doi/10.1200/CCI-25-00076)
 
 - RAMIE: Retrieval-Augmented Multi-Task Information Extraction with Large Language Models on Dietary Supplements  
   Zaifu Zhan, **Shuang Zhou**, Mingchen Li, Rui Zhang  
