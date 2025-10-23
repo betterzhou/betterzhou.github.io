@@ -145,6 +145,7 @@ Email: shuang.zhou AT connect.polyu.hk
 - Journal of the American Medical Informatics Association
 - Computers in Biology and Medicine
 - International Journal of Medical Informatics
+- BMC Medical Informatics and Decision Making  
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
 - ACM Transactions on Knowledge Discovery from Data
