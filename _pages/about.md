@@ -152,6 +152,7 @@ Email: shuang.zhou AT connect.polyu.hk
 - Neural Networks
 - Pattern Recognition
 - Knowledge-Based Systems
+- Data Mining and Knowledge Discovery  
 
 
 ### Conference Reviewer
