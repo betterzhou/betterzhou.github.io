@@ -38,7 +38,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 - Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
   **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
-  *npj Digital Medicine *, 2025     
+  *npj Digital Medicine*, 2025     
   [Code & dataset](https://github.com/betterzhou/ConfiDx)
   
 - Large Language Models for Disease Diagnosis: A Scoping Review  
