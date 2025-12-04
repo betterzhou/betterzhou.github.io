@@ -21,10 +21,6 @@ Email: shuang.zhou AT connect.polyu.hk
 # Preprint 
 (# indicates equal contributions)
 
-- Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
-  **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
-  *arXiv*, 2025
-
 - Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
   **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
   *arXiv*, 2025
@@ -36,14 +32,15 @@ Email: shuang.zhou AT connect.polyu.hk
 - EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
   Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
   *arXiv*, 2025
-  
-- Continually Evolved Multimodal Foundation Models for Cancer Prognosis  
-  Jie Peng<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Longwei Yang, Yiran Song, Mohan Zhang, Kaixiong Zhou, Feng Xie, Mingquan Lin, Rui Zhang, Tianlong Chen  
-  *arXiv*, 2025
-
 
 
 # Publication
+
+- Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
+  **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
+  *npj Digital Medicine *, 2025
+  [Code & dataset](https://github.com/betterzhou/ConfiDx)
+  
 - Large Language Models for Disease Diagnosis: A Scoping Review  
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
   *npj Artificial Intelligence*, 2025   
