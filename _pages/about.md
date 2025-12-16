@@ -138,6 +138,7 @@ Email: shuang.zhou AT connect.polyu.hk
 ### Journal Reviewer
 
 - npj Digital Medicine
+- npj Health Systems
 - Cell Reports Medicine
 - Journal of the American Medical Informatics Association
 - Computers in Biology and Medicine
