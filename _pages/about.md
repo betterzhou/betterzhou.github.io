@@ -21,25 +21,30 @@ Email: shuang.zhou AT connect.polyu.hk
 # Preprint 
 (# indicates equal contributions)
 
-- Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
-  **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
-  *arXiv*, 2025
+- Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review    
+  Kai Yu<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Yu Hou, Yiran Song, Min Zeng, Fangqiao Tian, Jin Du, Wenya Xie, Biao Yin, You Chen, Feifan Liu, Jie Ding, Zirui Liu, Mingquan Lin, Rui Zhang
+  *preprint*, 2025
 
 - Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation  
   Zaifu Zhan, **Shuang Zhou**, Min Zeng, Kai Yu, Meijia Song, Xiaoyi Chen, Jun Wang, Yu Hou, Rui Zhang  
-  *arXiv*, 2025
+  *preprint*, 2025
 
 - EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
   Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
-  *arXiv*, 2025
+  *preprint*, 2025
 
 
 # Publication
 
+- Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
+  **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
+  *npj Digital Medicine*, 2025 (Impact factor: 15.1)      
+  [Code](https://github.com/plusnli/MedThink-Bench)      
+  
 - Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
   **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
-  *npj Digital Medicine*, 2025     
-  [Code & dataset](https://github.com/betterzhou/ConfiDx)
+  *npj Digital Medicine*, 2025 (Impact factor: 15.1)       
+  [Code](https://github.com/betterzhou/ConfiDx)   
   
 - Large Language Models for Disease Diagnosis: A Scoping Review  
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
@@ -49,7 +54,7 @@ Email: shuang.zhou AT connect.polyu.hk
 - Explainable Differential Diagnosis with Dual-Inference Large Language Models  
   **Shuang Zhou**, Mingquan Lin, Sirui Ding, Jiashuo Wang, Canyu Chen, Genevieve B. Melton, James Zou, Rui Zhang  
   *npj Health Systems*, 2025  
-  [Code & dataset](https://github.com/betterzhou/Dual-Inf)
+  [Code](https://github.com/betterzhou/Dual-Inf)
 
 - Mitigating Ethical Issues for Large Language Models in Oncology: A Systematic Review  
   **Shuang Zhou**<sup>#</sup>, Xingyi Liu<sup>#</sup>, Zidu Xu<sup>#</sup>, Zaifu Zhan, Meijia Song, Jun Wang, Shiao Liu, Hua Xu, Rui Zhang  
@@ -65,12 +70,12 @@ Email: shuang.zhou AT connect.polyu.hk
   Xiao Shen, Zhihao Chen, Shirui Pan, **Shuang Zhou**, Laurence Tianruo Yang, Xi Zhou  
   *AAAI Conference on Artificial Intelligence (AAAI)*, 2025  
   (Acceptance rate: 3,032/12,957 = 23.4%, main track)  
-  [Code & dataset](https://github.com/3480430977/UAGA)  
+  [Code](https://github.com/3480430977/UAGA)  
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
   *Neural Networks*, 2024  
-  [Code & dataset](https://github.com/betterzhou/Open_World_ECG_Classification)
+  [Code](https://github.com/betterzhou/Open_World_ECG_Classification)
 
 - Enhancing Explainable Rating Prediction through Concept Annotation with LLMs  
   Huachi Zhou, **Shuang Zhou**, Hao Chen, Xiao Huang, Fan Yang, Ninghao Liu  
@@ -91,12 +96,12 @@ Email: shuang.zhou AT connect.polyu.hk
 - Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Huachi Zhou, Fu-Lai Chung, Long-Kai Huang  
   *IEEE Transactions on Knowledge and Data Engineering*, 2023 (Impact factor: 8.9)  
-  [Code & dataset](https://github.com/betterzhou/AugAN)
+  [Code](https://github.com/betterzhou/AugAN)
 
 - Unseen Anomaly Detection on Networks via Multi-Hypersphere Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Qiaoyu Tan, Fu-Lai Chung  
   *SIAM International Conference on Data Mining (SDM)*, 2022  
-  [Code & dataset](https://github.com/betterzhou/MHGL)
+  [Code](https://github.com/betterzhou/MHGL)
 
 - Subtractive Aggregation for Attributed Network Anomaly Detection  
   **Shuang Zhou**, Qiaoyu Tan, Zhiming Xu, Xiao Huang, Fu-Lai Chung  
@@ -115,12 +120,12 @@ Email: shuang.zhou AT connect.polyu.hk
 - LncRNA-miRNA Interaction Prediction from the Heterogeneous Network through Graph Embedding Ensemble Learning  
   **Shuang Zhou**, Xiang Yue, Xinran Xu, Shichao Liu, Wen Zhang, Yanqing Niu  
   *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2019  
-  [Code & dataset](https://github.com/betterzhou/GEEL)
+  [Code](https://github.com/betterzhou/GEEL)
 
 - LncRNA-miRNA Interaction Prediction through Sequence-Derived Linear Neighborhood Propagation Method with Information Combination  
   Wen Zhang, Guifeng Tang, **Shuang Zhou**, Yanqing Niu  
   *BMC Genomics*, 2019  
-  [Code & dataset](https://github.com/betterzhou/SLNPM)
+  [Code](https://github.com/betterzhou/SLNPM)
 
 - Sequence-Derived Linear Neighborhood Propagation Method for Predicting lncRNA-miRNA Interactions  
   Wen Zhang, Guifeng Tang, Siman Wang, Yanlin Chen, **Shuang Zhou**, Xiaohong Li  
