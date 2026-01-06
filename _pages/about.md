@@ -22,12 +22,12 @@ Email: shuang.zhou AT connect.polyu.hk
 (# indicates equal contributions)
 
 - Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review    
-  Kai Yu<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Yu Hou, Yiran Song, Min Zeng, Fangqiao Tian, Jin Du, Wenya Xie, Biao Yin, You Chen, Feifan Liu, Jie Ding, Zirui Liu, Mingquan Lin, Rui Zhang
-  *preprint*, 2025
+  Kai Yu<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Yu Hou, Yiran Song, Min Zeng, Fangqiao Tian, Jin Du, Wenya Xie, Biao Yin, You Chen, Feifan Liu, Jie Ding, Zirui Liu, Mingquan Lin, Rui Zhang      
+  *preprint*, 2025    
 
 - Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation  
   Zaifu Zhan, **Shuang Zhou**, Min Zeng, Kai Yu, Meijia Song, Xiaoyi Chen, Jun Wang, Yu Hou, Rui Zhang  
-  *preprint*, 2025
+  *preprint*, 2025   
 
 - EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
   Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
