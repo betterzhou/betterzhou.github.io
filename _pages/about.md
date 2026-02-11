@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher working with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang) in the Department of Surgery, University of Minnesota Twin Cities. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024, advised by [Dr. Korris Chung](https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris/) and [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). Before that, I obtained my Master's degree from The Chinese University of Hong Kong (CUHK) in 2020 and received my Bachelor's degree from the medical school of Wuhan University (WHU) in 2018.
+I am a researcher working with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang) in the Department of Surgery, University of Minnesota Twin Cities. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024, advised by [Dr. Korris Chung](https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris/) and [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). Before that, I obtained my Master's degree from The Chinese University of Hong Kong (CUHK) and received my Bachelor's degree from the medical school of Wuhan University (WHU).
 
 
 My research interests include Biomedical Informatics, Electronic Health Records, Large Language Models, AI for Healthcare, Deep Learning, and Graph Neural Networks. 
@@ -148,8 +148,9 @@ Email: shuang.zhou AT connect.polyu.hk
 - Journal of the American Medical Informatics Association
 - Computers in Biology and Medicine
 - International Journal of Medical Informatics
-- BMC Medical Informatics and Decision Making
+- BMC Medical Informatics and Decision Making   
 - JCO Clinical Cancer Informatics    
+- IEEE Transactions on Knowledge and Data Engineering      
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
 - ACM Transactions on Knowledge Discovery from Data
@@ -162,6 +163,7 @@ Email: shuang.zhou AT connect.polyu.hk
 ### Conference Reviewer
 
 - AAAI 2023-2025
+- KDD 2026    
 - AMIA Annual Symposium 2025
 - AMIA Informatics Summit 2025
 
