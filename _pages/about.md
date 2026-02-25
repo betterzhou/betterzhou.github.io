@@ -29,12 +29,12 @@ Email: shuang.zhou AT connect.polyu.hk
   Zaifu Zhan, **Shuang Zhou**, Min Zeng, Kai Yu, Meijia Song, Xiaoyi Chen, Jun Wang, Yu Hou, Rui Zhang  
   *preprint*, 2025   
 
-- EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
-  Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang  
-  *preprint*, 2025
-
 
 # Publication
+
+- EPEE: Towards Efficient and Effective Foundation Models in Biomedicine  
+  Zaifu Zhan, **Shuang Zhou**, Huixue Zhou, Zirui Liu, Rui Zhang    
+  *npj Health Systems*, 2026     
 
 - Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
   **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
