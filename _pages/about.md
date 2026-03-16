@@ -13,7 +13,7 @@ I am a researcher working with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zha
 My research interests include Biomedical Informatics, Electronic Health Records, Large Language Models, AI for Healthcare, Deep Learning, and Graph Neural Networks. 
 
 
-I am looking for remote collaborators. Please feel free to drop me an email if you are interested in AI + medicine.
+I am looking for remote collaborators. Please feel free to drop me an email if you are interested in AI + Medicine.
 
 Email: shuang.zhou AT connect.polyu.hk
 
