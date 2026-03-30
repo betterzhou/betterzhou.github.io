@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher working with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang) in the Department of Surgery, University of Minnesota Twin Cities. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024, advised by [Dr. Korris Chung](https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris/) and [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). Before that, I obtained my Master's degree from The Chinese University of Hong Kong (CUHK) and received my Bachelor's degree from the medical school of Wuhan University (WHU).
+I am a research fellow at Massachusetts General Hospital / Harvard Medical School. Previously, I was fortunate to work with [Prof. Rui Zhang](https://med.umn.edu/bio/rui-zhang) in medical informatics at the University of Minnesota. I received my PhD degree in Computer Science from The Hong Kong Polytechnic University in 2024, advised by [Dr. Korris Chung](https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris/) and [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). Before that, I obtained my Master's degree from The Chinese University of Hong Kong (CUHK) and received my Bachelor's degree from the medical school of Wuhan University (WHU).
 
 
-My research interests include Biomedical Informatics, Electronic Health Records, Large Language Models, AI for Healthcare, Deep Learning, and Graph Neural Networks. 
+My research interests include Medical Informatics, Large Language Models, AI for Healthcare, Deep Learning, and Electronic Health Records. 
 
 
 I am looking for remote collaborators. Please feel free to drop me an email if you are interested in AI + Medicine.
