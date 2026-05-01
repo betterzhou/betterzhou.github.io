@@ -145,8 +145,9 @@ Email: shuang.zhou AT connect.polyu.hk
 - npj Digital Medicine
 - npj Health Systems
 - Cell Reports Medicine
-- Journal of the American Medical Informatics Association
 - Computers in Biology and Medicine
+- Journal of the American Medical Informatics Association
+- JAMIA Open   
 - International Journal of Medical Informatics
 - BMC Medical Informatics and Decision Making   
 - JCO Clinical Cancer Informatics    
