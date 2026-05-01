@@ -165,7 +165,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 - AAAI 2023-2025    
 - KDD 2026
-- ACMMM 2026    
+- ACM MM 2026    
 - IEEE ICHI 2026    
 - AMIA Annual Symposium 2025    
 - AMIA Informatics Summit 2025    
