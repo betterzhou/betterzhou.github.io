@@ -150,7 +150,8 @@ Email: shuang.zhou AT connect.polyu.hk
 - JAMIA Open   
 - International Journal of Medical Informatics
 - BMC Medical Informatics and Decision Making   
-- JCO Clinical Cancer Informatics    
+- JCO Clinical Cancer Informatics
+- IEEE Journal of Biomedical and Health Informatics    
 - IEEE Transactions on Knowledge and Data Engineering      
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
