@@ -38,12 +38,12 @@ Email: shuang.zhou AT connect.polyu.hk
 
 - Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
   **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
-  *npj Digital Medicine*, 2025 (Impact factor: 15.1)      
+  *npj Digital Medicine*, 2025 (Impact factor: 18)      
   [Code](https://github.com/plusnli/MedThink-Bench)      
   
 - Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
   **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
-  *npj Digital Medicine*, 2025 (Impact factor: 15.1)       
+  *npj Digital Medicine*, 2025 (Impact factor: 18)       
   [Code](https://github.com/betterzhou/ConfiDx)   
   
 - Large Language Models for Disease Diagnosis: A Scoping Review  
@@ -164,8 +164,8 @@ Email: shuang.zhou AT connect.polyu.hk
 
 ### Conference Reviewer
 
-- AAAI 2023-2025    
-- KDD 2026
+- AAAI 2023-2027   
+- KDD 2026-2027
 - ACM MM 2026    
 - IEEE ICHI 2026    
 - AMIA Annual Symposium 2025    
