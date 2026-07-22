@@ -13,7 +13,7 @@ I am a research fellow at Massachusetts General Hospital / Harvard Medical Schoo
 My research interests include Medical Informatics, Large Language Models, AI for Healthcare, Deep Learning, and Electronic Health Records. 
 
 
-<span style="color: blue;">I am looking for remote collaborators, especially medical doctors.</span> Please feel free to drop me an email if you are interested in AI + Medicine.
+I am looking for remote collaborators, especially clinicians or medical students. Please feel free to drop me an email if you are interested in AI + Medicine.
 
 Email: shuang.zhou AT connect.polyu.hk
 
