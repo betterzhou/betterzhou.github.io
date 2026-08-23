@@ -19,7 +19,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 
 # Preprint 
-(# indicates equal contributions)
+(# indicates equal contributions, * denotes corresponding author)
 
 - HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology  
   **Shuang Zhou**, Kai Yu, Song Wang, Wenya Xie, Zaifu Zhan, Meng-Han Tsai, Yuen-Hei Chung, Shutong Hou, Huixue Zhou, Min Zeng, Bhavadharini Ramu, Lin Yee Chen, Feng Xie, Rui Zhang  
