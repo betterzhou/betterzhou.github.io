@@ -33,12 +33,6 @@ Email: shuang.zhou AT connect.polyu.hk
   Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Shan Dong, Xiaoxia Che<sup>&#42;</sup>  
   <em>arXiv</em>, 2026  
 
-- Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment  
-  Zaifu Zhan, **Shuang Zhou**, Min Zeng, Yiran Song, Kai Yu, Meijia Song, Xiaoyi Chen, Yu Hou, Yifan Wu, Xincan Feng, Yang Ruan, Mengyuan Cui, Rui Zhang  
-  *Preprints.org*, 2026  
-
-
-
 
 # Selected Publication
 
