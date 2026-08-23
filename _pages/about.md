@@ -30,8 +30,8 @@ Email: shuang.zhou AT connect.polyu.hk
   *arXiv*, 2026  
 
 - OralMLLM-Bench: Evaluating Cognitive Capabilities of Multimodal Large Language Models in Dental Practice  
-  Rongyang Wang, **Shuang Zhou**<sup>&ast;</sup>, Jiashuo Wang, Wenya Xie, Shan Dong, Xiaoxia Che<sup>&ast;</sup>  
-  *arXiv*, 2026  
+  Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Shan Dong, Xiaoxia Che<sup>&#42;</sup>  
+  <em>arXiv</em>, 2026  
 
 - Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment  
   Zaifu Zhan, **Shuang Zhou**, Min Zeng, Yiran Song, Kai Yu, Meijia Song, Xiaoyi Chen, Yu Hou, Yifan Wu, Xincan Feng, Yang Ruan, Mengyuan Cui, Rui Zhang  
