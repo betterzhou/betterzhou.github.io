@@ -66,7 +66,6 @@ Email: shuang.zhou AT connect.polyu.hk
   **Shuang Zhou**, Daochen Zha, Xiao Shen, Xiao Huang, Rui Zhang, Fu-Lai Chung  
   *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024  
   (Acceptance rate: 791/5651 = 14.0%, main track)  
-  [Code](https://github.com/betterzhou/DECL)
 
 
 
