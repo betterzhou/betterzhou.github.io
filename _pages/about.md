@@ -21,9 +21,6 @@ Email: shuang.zhou AT connect.polyu.hk
 # Preprint 
 (# indicates equal contributions, * denotes corresponding author)
 
-- HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology  
-  **Shuang Zhou**, Kai Yu, Song Wang, Wenya Xie, Zaifu Zhan, Meng-Han Tsai, Yuen-Hei Chung, Shutong Hou, Huixue Zhou, Min Zeng, Bhavadharini Ramu, Lin Yee Chen, Feng Xie, Rui Zhang  
-  *arXiv*, 2026  
 
 - EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models  
   **Shuang Zhou**, Kai Yu, Zaifu Zhan, Huixue Zhou, Min Zeng, Feng Xie, Zhiyi Sha, Rui Zhang  
