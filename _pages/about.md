@@ -77,9 +77,10 @@ Email: shuang.zhou AT connect.polyu.hk
 - PLOS Digital Health    
 - Journal of the American Medical Informatics Association
 - JAMIA Open   
-- International Journal of Medical Informatics
-- BMC Medical Informatics and Decision Making   
-- JCO Clinical Cancer Informatics
+- International Journal of Medical Informatics  
+- BMC Medical Informatics and Decision Making    
+- JCO Clinical Cancer Informatics      
+- Scientific Reports     
 - IEEE Journal of Biomedical and Health Informatics    
 - IEEE Transactions on Knowledge and Data Engineering      
 - IEEE Transactions on Neural Networks and Learning Systems
