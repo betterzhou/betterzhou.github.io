@@ -68,6 +68,12 @@ Email: shuang.zhou AT connect.polyu.hk
 
 # Services
 
+
+### Editorial Board Member
+- npj Health Systems
+- International Journal of Computational Intelligence Systems
+
+
 ### Journal Reviewer
 
 - npj Digital Medicine
