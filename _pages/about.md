@@ -22,17 +22,18 @@ Email: shuang.zhou AT connect.polyu.hk
 (# indicates equal contributions, * denotes corresponding author)
 
 
-- EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models  
-  **Shuang Zhou**, Kai Yu, Zaifu Zhan, Huixue Zhou, Min Zeng, Feng Xie, Zhiyi Sha, Rui Zhang  
-  *arXiv*, 2026  
-
 - OralMLLM-Bench: Evaluating Cognitive Capabilities of Multimodal Large Language Models in Dental Practice  
   Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Shan Dong, Xiaoxia Che<sup>&#42;</sup>  
   <em>arXiv</em>, 2026  
 
 
-# Selected Publication
+# Selected Publications
 
+
+- Early Epilepsy Detection from Electronic Health Records with Large Language Models  
+  **Shuang Zhou**, Kai Yu, Zaifu Zhan, Huixue Zhou, Min Zeng, Feng Xie, Zhiyi Sha, Rui Zhang  
+  *npj Digital Medicine*, 2026 (Impact Factor: 18)
+  
 - Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review  
   Kai Yu<sup>#</sup>, **Shuang Zhou**<sup>#</sup>, Yu Hou, Yiran Song, Min Zeng, Fangqiao Tian, Jin Du, Wenya Xie, Biao Yin, Feifan Liu, Jie Ding, Zirui Liu, Mingquan Lin, Rui Zhang  
   *npj Digital Medicine*, 2026 (Impact Factor: 18)
