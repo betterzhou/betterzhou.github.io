@@ -72,7 +72,9 @@ Email: shuang.zhou AT connect.polyu.hk
 
 ### Editorial Board Member
 - npj Health Systems
-- International Journal of Computational Intelligence Systems
+- BMC Medical Informatics and Decision Making     
+- International Journal of Computational Intelligence Systems   
+
 
 
 ### Journal Reviewer
