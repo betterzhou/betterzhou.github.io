@@ -23,7 +23,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 
 - OralMLLM-Bench: Evaluating Cognitive Capabilities of Multimodal Large Language Models in Dental Practice  
-  Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Shan Dong, Xiaoxia Che<sup>&#42;</sup>  
+  Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>&#42;</sup>  
   <em>arXiv</em>, 2026  
 
 
