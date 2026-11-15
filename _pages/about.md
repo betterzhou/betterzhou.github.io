@@ -52,7 +52,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 - Cognitive Evaluation of Multimodal Large Language Models in Dental Radiography         
   Rongyang Wang, <strong>Shuang Zhou</strong><sup>†</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>†</sup>  
-  *Journal of Dentistry*, 2026 (CAS Zone 1 in Dentistry, CAS Top Journal)
+  *Journal of Dentistry*, 2026 (A leading journal in Dentistry)
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
