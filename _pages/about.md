@@ -48,7 +48,7 @@ Email: shuang.zhou AT connect.polyu.hk
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
   *npj Artificial Intelligence*, 2025   
 
-- Cognitive Evaluation of Multimodal Large Language Models in Dental Radiography
+- Cognitive Evaluation of Multimodal Large Language Models in Dental Radiography         
   Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>&#42;</sup>  
   *Journal of Dentistry*, 2026 (CAS Zone 1 in Dentistry, CAS Top Journal)
 
