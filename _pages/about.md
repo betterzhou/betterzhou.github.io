@@ -19,7 +19,7 @@ Email: shuang.zhou AT connect.polyu.hk
 
 
 # Preprint 
-(# indicates equal contributions, * denotes corresponding author)
+(# indicates equal contributions, † denotes corresponding author)
 
 - Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment  
   Zaifu Zhan, **Shuang Zhou**, Min Zeng, Yiran Song, Kai Yu, Meijia Song, Xiaoyi Chen, Yu Hou, Yifan Wu, Xincan Feng, Yang Ruan, Mengyuan Cui, Rui Zhang  
