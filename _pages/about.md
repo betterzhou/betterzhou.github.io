@@ -51,7 +51,7 @@ Email: shuang.zhou AT connect.polyu.hk
   *npj Artificial Intelligence*, 2025   
 
 - Cognitive Evaluation of Multimodal Large Language Models in Dental Radiography         
-  Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>&#42;</sup>  
+  Rongyang Wang, <strong>Shuang Zhou</strong><sup>†</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>†</sup>  
   *Journal of Dentistry*, 2026 (CAS Zone 1 in Dentistry, CAS Top Journal)
 
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
