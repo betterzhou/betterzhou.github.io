@@ -22,9 +22,7 @@ Email: shuang.zhou AT connect.polyu.hk
 (# indicates equal contributions, * denotes corresponding author)
 
 
-- OralMLLM-Bench: Evaluating Cognitive Capabilities of Multimodal Large Language Models in Dental Practice  
-  Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>&#42;</sup>  
-  <em>arXiv</em>, 2026  
+
 
 
 # Selected Publications
@@ -49,7 +47,11 @@ Email: shuang.zhou AT connect.polyu.hk
 - Large Language Models for Disease Diagnosis: A Scoping Review  
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
   *npj Artificial Intelligence*, 2025   
-  
+
+- Cognitive Evaluation of Multimodal Large Language Models in Dental Radiography
+  Rongyang Wang, <strong>Shuang Zhou</strong><sup>&#42;</sup>, Jiashuo Wang, Wenya Xie, Xiaoxia Che<sup>&#42;</sup>  
+  *Journal of Dentistry*, 2026 (CAS Zone 1 in Dentistry, CAS Top Journal)
+
 - Open-World Electrocardiogram Classification via Domain Knowledge-Driven Contrastive Learning  
   **Shuang Zhou**, Xiao Huang, Ninghao Liu, Wen Zhang, Yuan-Ting Zhang, Fu-Lai Chung  
   *Neural Networks*, 2024  
