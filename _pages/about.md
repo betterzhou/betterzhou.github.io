@@ -40,11 +40,11 @@ Email: shuang.zhou AT connect.polyu.hk
   
 - Automating Expert-Level Medical Reasoning Evaluation of Large Language Models  
   **Shuang Zhou**<sup>#</sup>, Wenya Xie<sup>#</sup>, Jiaxi Li<sup>#</sup>, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang  
-  *npj Digital Medicine*, 2025 (Impact factor: 18)         
+  *npj Digital Medicine*, 2025 (Impact Factor: 18)         
   
 - Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis  
   **Shuang Zhou**, Jiashuo Wang, Zidu Xu, Song Wang, David Brauer, Lindsay Welton, Jacob Cogan, Yuen-Hei Chung, Lei Tian, Zaifu Zhan, Yu Hou, Mingquan Lin, Genevieve B Melton, Rui Zhang  
-  *npj Digital Medicine*, 2025 (Impact factor: 18)       
+  *npj Digital Medicine*, 2025 (Impact Factor: 18)       
   
 - Large Language Models for Disease Diagnosis: A Scoping Review  
   **Shuang Zhou**<sup>#</sup>, Zidu Xu<sup>#</sup>, Mian Zhang<sup>#</sup>, Chunpu Xu<sup>#</sup>, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, Kaishuai Xu, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
